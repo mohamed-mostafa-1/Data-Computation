@@ -35,7 +35,7 @@ This Jupyter notebook is a part of the "Computation Project." The notebook conta
 1. **Installation**
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-repository.git
+     git clone https://github.com/mohamed-mostafa-1/Data-Computation.git
      ```
    - Install the required Python libraries:
      ```bash
