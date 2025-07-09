@@ -1,4 +1,4 @@
-## Project Title: Computation Project
+## Computation Project
 
 ### Overview
 This Jupyter notebook is a part of the "Computation Project." The notebook contains computational methods and algorithms to solve a set of problems or perform specific tasks. The code is primarily written in Python, leveraging libraries like NumPy, Pandas, and Matplotlib.
